@@ -1,4 +1,4 @@
-# Test
+# Untis on Desktop
 
 This is a desktop port for untis so you don't have to use the web version everytime
 
