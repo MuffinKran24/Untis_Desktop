@@ -11,3 +11,5 @@ s = webuntis.Session(
     useragent='WebUntis Test',
     username='Your username',
     password='Your password'
+
+(they are not saved. trust me 😅)
