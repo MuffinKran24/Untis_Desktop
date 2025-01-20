@@ -1,7 +1,8 @@
 # Untis on Desktop
 
-⚠ This is still work in progress and doesn't work as expected ⚠
+⚠ This is not a official product from Borys ⚠
 
+This is still work in progress and doesn't work as expected
 
 This is a desktop port for untis so you don't have to use the web version everytime
 
