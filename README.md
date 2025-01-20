@@ -1,7 +1,9 @@
 # Untis on Desktop
 
-This is a desktop port for untis so you don't have to use the web version everytime
+⚠ This is still work in progress and doesn't work as expected ⚠
 
+
+This is a desktop port for untis so you don't have to use the web version everytime
 
 To use this programm you need to enter your credentials to log into untis
 
