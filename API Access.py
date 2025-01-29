@@ -6,8 +6,8 @@ s = webuntis.Session(
     server='borys.webuntis.com',
     school='JK Gym Weinsberg',
     useragent='WebUntis Test',
-    username='finn.brandt',
-    password='R6X2ddAwkF'
+    username='**********',
+    password='*******'
 )
 
 s.login()
