@@ -4,10 +4,10 @@ import pygame
 
 s = webuntis.Session(
     server='borys.webuntis.com',
-    school='JK Gym Weinsberg',
+    school='*****',
     useragent='WebUntis Test',
-    username='**********',
-    password='*******'
+    username='*****',
+    password='*****'
 )
 
 s.login()
